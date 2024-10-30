@@ -1,0 +1,23 @@
+#B2Template_RuleList {
+	border:5px dashed #ccc;
+	padding:10px;
+	width:50%;
+	background-color:#eee;
+}
+
+#B2Template_RuleList li {
+	line-height:1.5em;
+}
+
+#B2Template_RuleList input {
+	float:right;
+	clear:both;
+}
+
+#B2Template_RuleList .submitdelete {
+	background:none;
+	border:none;
+	color:red;
+	border-radius:0;
+	border-bottom:1px solid red;
+}

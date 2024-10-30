@@ -1,0 +1,42 @@
+.B2Template_FactCheck  {
+	margin-bottom:12px;
+}
+
+.B2Template_FactCheck label {
+	width:100px;
+	display:block;
+	float:left;
+	clear:left;
+	font-weight:bold;
+}
+
+.B2Template_FactCheck input {
+	margin-bottom:0;
+}
+
+.B2Template_FactCheck p {
+	margin-bottom:6px !important;
+}
+
+.B2Template_InsertHighlightedText {
+	margin-left:15px !important;
+}
+
+.B2Template_Feedback div {
+	margin-bottom:12px;
+	padding:5px 5px 5px 25px;
+}
+
+.B2Template_Feedback p {
+	margin-bottom:0 !important;
+}
+
+.B2Template_Feedback .updated {
+	background: url('../images/success.png') 5px 9px no-repeat;
+	border:2px solid #00641a;
+}
+
+.B2Template_Feedback .error {
+	background:url('../images/error.png')  5px 9px no-repeat;
+	border:2px solid #94121d;
+}

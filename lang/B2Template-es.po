@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: B2Template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-17 21:30-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dan Imbrogno <dan.imbrogno@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: B2Template.php:295
+msgid "Settings"
+msgstr "Configuración"
+
+#: B2Template.php:302
+msgid "B2 Template Plugin"
+msgstr "B2 Plantilla Plugin"
+
+#: B2Template.php:331
+#: B2Template.php:399
+msgid "An error occurred. Please try your action again. If the problem persists please contact the plugin developer."
+msgstr "Se produjo un error. Por favor, inténtelo de nuevo la acción. Si el problema persiste, póngase en contacto con el deseñador del plugin."
+
+#: B2Template.php:540
+msgid "The find value was not set. Enter the text you would like to have replaced then try again."
+msgstr "La palabra para buscar no estaba definida. Escribir el texto que gustaria sustituir y inténtalo de nuevo."
+
+#: B2Template.php:548
+#, php-format
+msgid "A replace rule for that term already exists. Delete the existing rule for \"%s\" and try again, or create a different rule."
+msgstr "Una regla de sustitución ya existe. Borrar la regla que existe para \"%s\" y inténtalo de nuevo, o crear una regla diferente."
+
+#: B2Template.php:557
+msgid "Find and Replace rule has been added."
+msgstr "La regla de buscar y sustituir ha sido añado."
+
+#: B2Template.php:572
+msgid "Find and Replace rule has been removed."
+msgstr "La regla de sustitución ha sido eliminado."
+
+#: B2Template.php:594
+msgid "All fields are required, please fill in the missing fields and submit your fact check again."
+msgstr ""
+
+#: B2Template.php:603
+msgid "Your fact check has been reported."
+msgstr ""
+
+#: B2TemplateWidget.php:10
+msgid "This widget displays the word count and/or Flesch-Kincaid Readability Score for the currently viewed posts."
+msgstr "Este widget se muestra la cuenta de palabras y/o el calificación del Flesh-Kincaid Nivel de Leyendo para las entradas que estan viendo."
+
+#: B2TemplateWidget.php:12
+msgid "B2 Template Widget"
+msgstr "B2 Plantilla Plugin"
+
+#: B2TemplateWidget.php:51
+#: B2TemplateWidget.php:117
+msgid "Word Count"
+msgstr "Cuenta de palabras"
+
+#: B2TemplateWidget.php:56
+#: B2TemplateWidget.php:125
+msgid "Reading Level"
+msgstr "Nivel de Leyendo"
+
+#: B2TemplateWidget.php:60
+#: B2TemplateWidget.php:133
+msgid "Syllables"
+msgstr "Sílabas"
+
+#: B2TemplateWidget.php:64
+msgid "Average Syllables / Word"
+msgstr "Promedio de sílabas / palabra"
+
+#: B2TemplateWidget.php:68
+#: B2TemplateWidget.php:150
+msgid "Average Words / Sentence"
+msgstr "Promedio palabras por frase"
+
+#: B2TemplateWidget.php:108
+msgid "Widget Title"
+msgstr "Titulo del Widget"
+
+#: B2TemplateWidget.php:141
+msgid "Average Syllables /Word"
+msgstr "Promedio de sílabas / palabra"
+
+#: html/config.php:11
+msgid "Wrap Site Title (Saving Plugin Settings Demo)"
+msgstr "Envolver Titulo del Sitio (Demonstración de Ahorar Configuraciones del Plugin)"
+
+#: html/config.php:12
+msgid "This demonstrates how to register plugin settings and submit them. When set, the values below will be prepended and appended to the WordPress site title."
+msgstr "Este se muestra como registrar configuraciónes del plugin y someterlos. Cuando configurado, los valores abajo estan anexado y antepuesto al titulo de sitio de WordPress."
+
+#: html/config.php:18
+msgid "Prepend Site Title With"
+msgstr "Anteponer Titulo del Sitio con"
+
+#: html/config.php:26
+msgid "Append Site Title With"
+msgstr "Anexar Titulo del Sitio con"
+
+#: html/config.php:36
+#: html/config.php:120
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: html/config.php:43
+msgid "Content Find and Replace Rules (Ajax Demo)"
+msgstr "Reglas de busca y sustituir (demonstración de AJAX)"
+
+#: html/config.php:45
+msgid "This demonstrates how to save values to a database table. This form uses Ajax to submit, but degrades gracefully when the user disables javascript. When added, the rules below will find and replace text values in WordPress posts."
+msgstr "Este se muestra como guadar valores a un base de datos. Este formulario usa AJAX para someter, pero se descomponé elegantemente cuando el usuario no tiene Javascript habilitado. Las reglas abajo busca y sustituye valores de texto en entradas de Wordpress."
+
+#: html/config.php:49
+msgid "Add a Rule"
+msgstr "Añadir una Regla"
+
+#: html/config.php:68
+msgid "Find"
+msgstr "Buscar"
+
+#: html/config.php:76
+msgid "Replace"
+msgstr "Sustituir"
+
+#: html/config.php:87
+msgid "Add Find and Replace Rule"
+msgstr "Añadir una Regla de sustitución"
+
+#: html/config.php:91
+msgid "Rules"
+msgstr "Reglas"
+
+#: html/config.php:103
+msgid "Plugin Language (Internationalization Demo)"
+msgstr "La Lengua del Plugin (Demonstración de Internacionalización)"
+
+#: html/config.php:104
+msgid "This demonstrates the use of language files for internationalizing a plugin."
+msgstr "Este se muestra como utilisar archivos de lengua para internacionalizar el plugin."
+
+#: html/config.php:110
+msgid "Ver plugin en Espa&ntilde;ol"
+msgstr "Ver plugin en Espa&ntilde;ol"
+
+#: html/fact_check.php:5
+msgid "Fact Check My Post"
+msgstr ""
+
+#: html/fact_check.php:9
+msgid "Think something I've said is factually wrong? Report it here."
+msgstr ""
+
+#: html/fact_check.php:29
+msgid "Fact"
+msgstr ""
+
+#: html/fact_check.php:33
+msgid "Comment"
+msgstr ""
+
+#: html/fact_check.php:37
+msgid "Source"
+msgstr ""
+
+#: html/fact_check.php:44
+msgid "Submit Fact Check"
+msgstr ""
+
+#: html/ajax_elements/rule_list.php:9
+#, php-format
+msgid "Find the word %s\"%s\"%s and replace with %s\"%s\"%s"
+msgstr "Busca la palabra %s\"%s\"%s y sustituirla con %s\"%s\"%s"
+
+#: html/ajax_elements/rule_list.php:11
+msgid "Delete Rule"
+msgstr "Borrar la regla"
+
+#~ msgid "Don't like a word I'm using? Change it!"
+#~ msgstr "No te gusta una palabra que usaba? Cambiala!"
+
+#~ msgid "Saved"
+#~ msgstr "Guardado"

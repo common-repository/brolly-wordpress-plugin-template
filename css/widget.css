@@ -1,0 +1,20 @@
+.B2TemplateWidget {
+	border:1px dashed #ccc;
+	padding:5px;
+	background-color:#efefef;
+}
+
+.B2TemplateWidget ul {
+	list-style: none !important;
+}
+
+.B2TemplateWidget ul li  {
+	margin-bottom:1em;
+	text-transform: uppercase;
+}
+
+.B2TemplateWidget ul li li {
+	font-size:0.8em;
+	margin-bottom:0.3em;
+	text-transform: none;
+}
